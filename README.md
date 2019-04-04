@@ -16,7 +16,7 @@ This repository contains the project of Student Attendence System using KIVY,OPE
 
 4.)Web cam /Any external Camera connected to your system
 
-# **RUNNING** :
+# **RUNNING THE CODE** :
 
 If all the libraries are installed and no error found the run it using :
 
@@ -27,3 +27,17 @@ b.)python3 main.py
 
 based on the enviornment where you have installed the libraries 
   
+# **SCREENSHOTS  ** :
+
+**1.)Creating Account :**
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one.png)
+
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one1.png)
+
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one11.png)
+
+
+
