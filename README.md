@@ -18,7 +18,13 @@ This repository contains the project of Student Attendence System using KIVY,OPE
 
 # **RUNNING THE CODE** :
 
-If all the libraries are installed and no error found the run it using :
+1.)Star the Repository 
+
+2.)Clone the Repository 
+
+3.)Install all the libraries as specified in the requirements 
+
+4.)If all the libraries are installed and no error found the run it using :
 
 ```
 a.)python main.py 
