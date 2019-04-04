@@ -52,9 +52,11 @@ based on the enviornment where you have installed the libraries
 
 **3.)Admin Login Initially :**
 
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one5.png)
+
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one4.png)
 
-![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one5.png)
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one7.png)
 
 
 
