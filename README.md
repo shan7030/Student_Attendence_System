@@ -5,8 +5,11 @@ This repository contains the project of Student Attendence System using KIVY,OPE
 # **REQUIRMENTS** :
 
 1.)Open cv2 
+
 2.)Python 3 /Python 2
+
 3.)KIVY
+
 4.)Web cam /Any external Camera connected to your system
 
 # **RUNNING** :
