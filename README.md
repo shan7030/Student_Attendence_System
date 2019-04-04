@@ -36,10 +36,6 @@ based on the enviornment where you have installed the libraries
 
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one1.png)
 
-
-![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one11.png)
-
-
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one2.png)
 
 **2.)Student Login Intially Before Updating attendence :**
@@ -52,11 +48,30 @@ based on the enviornment where you have installed the libraries
 
 **3.)Admin Login Initially :**
 
-![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one5.png)
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one3.png)
 
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one4.png)
 
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one7.png)
+
+**4.)Updating the Atterndence :**
+
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one11.png)
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one8.png)
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one9.png)
+
+**5.)Student Side after updating Attendence :**
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one10.png)
+
+
+
+
+
+
 
 
 
