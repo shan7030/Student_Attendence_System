@@ -16,6 +16,10 @@ This repository contains the project of Student Attendence System using KIVY,OPE
 
 4.)Web cam /Any external Camera connected to your system
 
+5.)ZBar / Pyzbar(For Scanning the barcode)
+
+6.)imutils (For VideoStreaming and basic image processing)
+
 # **RUNNING THE CODE** :
 
 1.)Star the Repository 
