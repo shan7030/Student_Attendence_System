@@ -27,7 +27,7 @@ b.)python3 main.py
 
 based on the enviornment where you have installed the libraries 
   
-# **SCREENSHOTS  ** :
+# **SCREENSHOTS** :
 
 **1.)Creating Account :**
 
