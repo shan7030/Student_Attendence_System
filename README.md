@@ -57,7 +57,7 @@ based on the enviornment where you have installed the libraries
 **4.)Updating the Atterndence :**
 
 
-![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one11.png)
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one12.png)
 
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one8.png)
 
