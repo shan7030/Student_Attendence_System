@@ -40,4 +40,7 @@ based on the enviornment where you have installed the libraries
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one11.png)
 
 
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one2.png)
+
+
 
