@@ -42,5 +42,22 @@ based on the enviornment where you have installed the libraries
 
 ![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one2.png)
 
+**2.)Student Login Intially Before Updating attendence :**
+
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one5.png)
+
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one6.png)
+
+**3.)Admin Login Initially :**
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one4.png)
+
+![alt text](https://github.com/shan7030/Student_Attendence_System/blob/master/images/one5.png)
+
+
+
+
 
 
