@@ -1,6 +1,6 @@
-# Student_Attendence_System
+# Student z System
 
-This repository contains the project of Student Attendence System using KIVY,OPEN CV 2,Pyzbar(Scanner library for Barcodes),Raspberry pi(You can run it by installing all the libraries as mentioned below in raspberry pi),Web Cam ,Barcode Scanner.
+This repository contains the project of Student Attendence System using KIVY,OPEN CV 2,Pyzbar(Scanner library for Barcodes),Raspberry pi(You can run it by installing all the libraries as mentioned below),Web Cam ,Barcode Scanner.
 
 # **REQUIRMENTS** :
 
